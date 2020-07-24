@@ -1,0 +1,14 @@
+sNumber="24"
+iNumber=int(sNumber)
+print(iNumber)
+print(type(iNumber))
+print("---------------------------------")
+iValue=80
+sValue=str(iValue)
+fValue=float(iValue)
+print(iValue)
+print(type(iValue))
+print(sValue)
+print(type(sValue))
+print(fValue)
+print(type(fValue))
